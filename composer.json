@@ -1,0 +1,15 @@
+{
+    "require": {
+        "slim/slim": "^3.7.0",
+        "firebase/php-jwt": "^4.0.0",
+        "vlucas/phpdotenv": "^2.4",
+        "dyorg/slim-token-authentication": "^0.2.0",
+        "slim/csrf": "^0.8.1",
+        "ramsey/uuid": "^3.7.3"
+    },
+    "autoload": {
+        "classmap": [
+          "app"
+        ]
+    }
+}
